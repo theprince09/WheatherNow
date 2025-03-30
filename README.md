@@ -1,8 +1,9 @@
 # 🌤️ WeatherNow
 
 A sleek and modern weather dashboard built with React.js that fetches real-time weather data and presents it in a clean, user-friendly interface.
+![Screenshot 2025-03-30 231431](https://github.com/user-attachments/assets/01dd5666-eb18-489b-9646-08ba703de45f)
 
-![WeatherNow Screenshot](https://via.placeholder.com/800x400.png?text=WeatherNow+Preview)
+
 
 ## 🚀 Live Demo
 🔗 [WeatherNow - Live](https://wheathernow09.netlify.app)
