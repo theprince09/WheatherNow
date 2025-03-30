@@ -1,50 +1,40 @@
-🌦 Weather Now
-Weather Now is a simple and interactive weather dashboard built with React, integrating the OpenWeather API to provide real-time weather updates, daily forecasts, and hourly predictions.
+# 🌤️ WeatherNow
 
-🚀 Features
-🔍 Search by City – Get real-time weather updates for any city worldwide.
+A sleek and modern weather dashboard built with React.js that fetches real-time weather data and presents it in a clean, user-friendly interface.
 
-🌡 Current Weather – Displays temperature, humidity, wind speed, and weather conditions.
+![WeatherNow Screenshot](https://via.placeholder.com/800x400.png?text=WeatherNow+Preview)
 
-📆 5-Day Forecast – View daily weather trends with key insights.
+## 🚀 Live Demo
+🔗 [WeatherNow - Live](https://wheathernow09.netlify.app)
 
-⏳ Hourly Forecast – See the weather forecast for the next 12 hours.
+## 📂 Repository
+🔗 [GitHub Repo](https://github.com/theprince09/WheatherNow)
 
-🕰 Search History – Keeps track of recent searches for quick access.
+---
 
-🎨 Modern UI – Built with Tailwind CSS and Framer Motion for smooth animations.
+## 📌 Features
 
-🛠 Tech Stack
-Frontend: React, Tailwind CSS, Framer Motion
+✅ Search for real-time weather information by city name  
+✅ Displays temperature, humidity, wind speed, and weather conditions  
+✅ Attractive and responsive UI (Mobile & Desktop-friendly)  
+✅ Error handling and loading states for better UX  
+✅ Background changes based on weather conditions 🌦️  
+✅ Deployed on Netlify for instant access  
 
-API: OpenWeather API
+---
 
-State Management: React Hooks (useState, useEffect)
+## 🛠 Tech Stack
 
-📦 Installation
-Clone the repository
+- **Frontend**: React.js, Tailwind CSS  
+- **API**: OpenWeatherMap API (or any other weather API you're using)  
+- **Deployment**: Netlify  
 
-git clone https://github.com/
-cd weather-now
-Install dependencies
+---
 
-npm install
-Set up your API key
+## 🎯 Setup & Installation
 
-Get your API key from OpenWeather.
+Follow these steps to run WeatherNow locally:
 
-Create a .env file in the project root and add:
-
-REACT_APP_WEATHER_API_KEY=your_api_key_here
-Start the application
-
-npm run dev
-🔧 Usage
-Enter a city name in the search bar.
-
-Click Search to fetch the weather details.
-
-Toggle between Hourly and Daily forecasts.
-
-Click Refresh to update the weather data.
-
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/theprince09/WheatherNow.git
