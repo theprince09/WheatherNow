@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "8589b149bec274a281b0696000a0d40a"; 
+const API_KEY = "Your_API_Key"; 
 
 export const fetchCityCoordinates = async (cityName) => {
   try {
